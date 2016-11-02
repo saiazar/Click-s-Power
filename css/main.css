@@ -81,3 +81,41 @@ div {
     border: 30px;
     border-bottom: solid 1px #D6D7DC;
 }
+
+
+.social {
+    text-align: center;
+    padding: 40px;
+    background-color: #8453C8;
+}
+
+.pp {
+    font-family: 'Cuprum', sans-serif;
+    font-size: 18px;
+    letter-spacing: 3px;
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding: 40px;
+    background-color: #8453C8;
+    
+}
+
+.txt2 {
+    color: #E9E4F5;
+    margin-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    padding: 40px;
+    background-color: #8453C8;
+}
+
+.fb_iframe_widget {
+    display: inline-block;
+    position: relative;
+}
+.fb-like {
+    bottom: 4px;
+}
+
+
