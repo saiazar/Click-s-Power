@@ -1,0 +1,50 @@
+body{
+    border:0px;
+    margin:0px;
+    font-family: 'Cuprum', sans-serif;
+    font-size: 18px;
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+.tag {
+    position: fixed;
+    right: 0px;
+    top: 0px;
+}
+
+div {
+    display: block;
+}
+
+.txt {
+    color: #534E68;
+    font-family: 'Cuprum', sans-serif;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.honor {
+    color: #8258B6;
+    font-family: 'Cuprum', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 20px;
+    text-align: center;
+}
+.header {
+    background: white;
+    width: 100%;
+    font-family: 'Cuprum', sans-serif;
+    border-bottom: solid 1px #D6D7DC;
+    color: #000;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+
+}
+
+div {
+    display: block;
+}
