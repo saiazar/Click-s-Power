@@ -59,3 +59,14 @@ div {
     border-color: black;
     border-bottom: solid 1px #D6D7DC;
 }
+
+.video2 {
+    width: 100%;
+    height: 550px;
+    text-align: center;
+    font-size: 11px;
+    font-family: sans-serif;
+    background-color: #dfecf5;
+    border: 30px;
+    border-bottom: solid 1px #D6D7DC;
+}
